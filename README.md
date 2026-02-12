@@ -1,5 +1,10 @@
 # GitButler Claude Plugin
 
+> [!NOTE]
+> The claude code hooks are no longer the recommended way of integrating with GitHub.
+>
+> We now recommend using our skill for the `but` CLI. The skill can be installed using `but skill install --global`.
+
 This is a Claude Code plugin that provides a better version control experience than watching your agent struggle with a series of complex Git commands.
 
 ## What does it do?
